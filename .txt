@@ -5,3 +5,6 @@ url: https://stitch.withgoogle.com/
 ia entender a estruta do codigo do figma stitch
 #claud
 url: https://claude.ai/new
+
+notion
+url: https://humane-legend-9f9.notion.site/Imers-o-Dev-do-Futuro-Guia-do-Aluno-Landing-Page-King-Burguer-Com-IA-31c0f920b6dd80f7a510cb898a3e86be#31c0f920b6dd80c7b874d5a0593fa2b3
